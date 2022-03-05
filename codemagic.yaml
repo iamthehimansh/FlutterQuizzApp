@@ -1,0 +1,4 @@
+workflows:
+  my-workflow:
+    instance_type: linux
+
